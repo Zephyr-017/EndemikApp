@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Endemik</string>
+    <string name="app_title">EndemikDB</string>
+    <string name="student_name">Nama Mahasiswa</string>
+    <string name="student_photo_desc">Foto mahasiswa</string>
+    <string name="nav_hewan">Hewan</string>
+    <string name="nav_tumbuhan">Tumbuhan</string>
+    <string name="search">Pencarian</string>
+    <string name="favorites">Favorit</string>
+    <string name="search_hint">Temukan…</string>
+    <string name="load_failed">Gagal memuat data</string>
+    <string name="load_error">Error: %1$s</string>
+    <string name="added_to_favorite">Ditambahkan ke favorit</string>
+    <string name="removed_from_favorite">Dihapus dari favorit</string>
+    <string name="region_label">ID</string>
+    <string name="toggle_dark_mode">Ubah tema</string>
+    <string name="toggle_region">Ubah region</string>
+    <string name="profile">Profil</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Endemic</string>
+    <string name="app_title">EndemikDB</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_photo_desc">Student photo</string>
+    <string name="nav_hewan">Animals</string>
+    <string name="nav_tumbuhan">Plants</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="search_hint">Find…</string>
+    <string name="load_failed">Failed to load data</string>
+    <string name="load_error">Error: %1$s</string>
+    <string name="added_to_favorite">Added to favorites</string>
+    <string name="removed_from_favorite">Removed from favorites</string>
+    <string name="region_label">EN</string>
+    <string name="toggle_dark_mode">Toggle theme</string>
+    <string name="toggle_region">Change region</string>
+    <string name="profile">Profile</string>
+</resources>

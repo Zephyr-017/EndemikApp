@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Endemik" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorSecondary">@color/blue_secondary</item>
+        <item name="android:statusBarColor">@color/blue_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurfaceVariant">@color/blue_secondary</item>
+        <item name="android:windowBackground">@color/gray_light</item>
+    </style>
+
+    <style name="Theme.Endemik" parent="Base.Theme.Endemik" />
+
+    <style name="App.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/blue_secondary</item>
+    </style>
+</resources>
